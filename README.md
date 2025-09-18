@@ -30,3 +30,6 @@ Zadaniem graczy jest przekonać innych, że właśnie ich postać jest najbardzi
     4.    Głosowanie — jedna postać zostaje wyeliminowana.
     5.    Po eliminacji gracz może odkryć dodatkowe karty (jeśli ma takie warunki).
     6.    Gra trwa, aż liczba graczy = liczbie miejsc w bunkrze
+
+INTERAKCJA Z UŻYTKOWNIKIEM
+Użytkownik będzię mógł stworzyć własne zasady (ile graczy, ile graczy może zostać w bunkerze itd.) Także możliwość komunikacjii przez czat głosowy i czt pisemny w grze. Funkje wybierania zdjęć na awatar a także zrobienie sobie nickname. Ale najważniejsze, w grze może głosować za iliminacje graczy i pokazywanie swoich własnych kart.
